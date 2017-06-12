@@ -18,6 +18,18 @@ ul.menu li.second a {
     background-position: 0 -80px;
 }
 
+ul.menu li.first a:hover {
+    background-position: 0 0;
+}
+
+ul.menu li.second a:hover {
+    background-position: 0 0;
+}
+
+ul.menu li.third a:hover {
+    background-position: 0 -80px;
+}
+
 p.speech {
     margin-left: auto;
     margin-right: auto;
